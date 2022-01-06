@@ -3,8 +3,15 @@ body{
 }
 .sidebar{
     margin: 11%;
-    border-left: 3px;
-    border-radius: 10px;
+    border-left: 3px solid;
     border-image: linear-gradient( purple, red);
-    border-image-slice: .5;
+    border-image-slice: 1;
+    background-color: lightgray;
+}
+#mission-color{
+    color: orangered;
+}
+.width{
+    padding-left: 5px;
+    font-size: 30px;
 }
