@@ -1,0 +1,10 @@
+body{
+    margin:  0%;
+}
+.sidebar{
+    margin: 11%;
+    border-left: 3px;
+    border-radius: 10px;
+    border-image: linear-gradient( purple, red);
+    border-image-slice: .5;
+}
