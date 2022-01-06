@@ -1,17 +1,28 @@
-body{
-    margin:  0%;
+h1{
+    font-size: 45px;
 }
-.sidebar{
-    margin: 11%;
-    border-left: 3px solid;
-    border-image: linear-gradient( purple, red);
-    border-image-slice: 1;
-    background-color: lightgray;
-}
-#mission-color{
-    color: orangered;
+.name-color{
+    color: orange;
 }
 .width{
-    padding-left: 5px;
-    font-size: 30px;
+    width: 50%;
+    margin: 9%;
+    
+}
+.width img{
+    width: 80%
+}
+.linked-button{
+    text-decoration: none;
+    background-image: linear-gradient(#e86646, red );
+    padding: 5px 30px;
+    border-radius: 15px;
+    color: white;
+    font-wesight: 700;
+}
+.flex-container{
+    display: flex;
+}
+.mission-level{
+    text-align: center;
 }
