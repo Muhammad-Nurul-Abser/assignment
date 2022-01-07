@@ -8,6 +8,7 @@ h1{
     width: 50%;
     margin: 9%;
     
+    
 }
 .width img{
     width: 80%
@@ -15,10 +16,10 @@ h1{
 .linked-button{
     text-decoration: none;
     background-image: linear-gradient(#e86646, red );
-    padding: 5px 30px;
+    padding: 10px 30px;
     border-radius: 15px;
     color: white;
-    font-wesight: 700;
+    font-weight: 700;
 }
 .flex-container{
     display: flex;
@@ -26,3 +27,38 @@ h1{
 .mission-level{
     text-align: center;
 }
+
+#illustrator{
+    width: 60%;
+    height: 40%;
+}
+#pink{
+    background-color: pink;
+}
+.divider{
+    width: 40%;
+    margin: 8px;
+    padding: 10px;
+    border-radius: 15px;
+}
+#equal-div{
+    margin: 12%;
+}
+#color-1{
+    background-color: LightPink;
+}
+#color-2{
+    background-color: 	LightBlue;
+}
+#color-3{
+    background-color: Moccasin	;
+}
+#img-redius{
+    width: 80%;
+    height: 100%;
+    margin-left: 20%;
+}
+#f-size{
+    font-size: 40px;
+}
+
